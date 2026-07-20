@@ -2,6 +2,8 @@
 
 # haruspex
 
+https://bell-kevin-haruspex-sgqh.bolt.host
+
 **A local-first calibration ledger.** Log predictions about your own life with a probability attached, judge them when their day comes, and let the app read the entrails: Brier scores, a calibration curve, overconfidence detection, and a confidence-interval training ground.
 
 A *haruspex* was the Etruscan diviner who read the future in a sacrificed animal's liver — the bronze [Liver of Piacenza](https://en.wikipedia.org/wiki/Liver_of_Piacenza) was literally a reference chart for doing it. This haruspex asks for a smaller offering: your honest probabilities. Then it tells you, with numbers, whether your "80% sure" actually means 80%.
