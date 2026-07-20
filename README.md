@@ -2,7 +2,7 @@
 
 # haruspex
 
-https://bell-kevin-haruspex-sgqh.bolt.host
+https://overconfident.org
 
 **A local-first calibration ledger.** Log predictions about your own life with a probability attached, judge them when their day comes, and let the app read the entrails: Brier scores, a calibration curve, overconfidence detection, and a confidence-interval training ground.
 
